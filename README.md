@@ -57,7 +57,7 @@
 <br/>
 
 
-## My Current Learning Endeavors: 📚
+## My Current Skills: 📚
 
 ### Frontend  
 <div >  
